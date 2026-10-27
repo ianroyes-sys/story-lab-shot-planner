@@ -1,0 +1,4 @@
+[
+  { "name": "Receipt Ledger", "status": "live", "tagline": "A nightly agent run that has to name the file it re-opened before it can report success.", "url": "https://example.com/receipt-ledger" },
+  { "name": "Pocket Menu", "status": "prototype", "tagline": "A small-restaurant ordering app built over one weekend; payments still mocked." }
+]

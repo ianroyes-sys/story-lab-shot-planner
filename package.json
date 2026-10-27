@@ -1,0 +1,26 @@
+{
+  "name": "story-lab-shot-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turn a real project into a shootable build-in-public video: treatment, shot list, rehearsal timer, shoot brief and AI director notes.",
+  "type": "module",
+  "author": "Ian Royes (https://github.com/ianroyes-sys)",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "next": "15.5.21",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3"
+  }
+}

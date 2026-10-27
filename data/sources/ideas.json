@@ -1,0 +1,6 @@
+{
+  "ideas": [
+    { "id": "stop-file", "title": "The STOP file", "body": "The most important file in the system is empty. Film the moment it halts every job at once.", "status": "inbox", "added": "2026-01-10", "source": "notebook" },
+    { "id": "old-cut", "title": "An idea that was cut", "body": "Not filmed.", "status": "cut" }
+  ]
+}
